@@ -22,5 +22,5 @@ Criar este e-book foi uma experiência reveladora sobre o potencial criativo das
 Mapa de Tendências: IAs Generativas
  ![image](https://github.com/user-attachments/assets/9b3a9254-a009-4e3a-814a-1e186bac2cf2)
 
-
+https://base10.vc/post/generative-ai-mission-critical/
  
