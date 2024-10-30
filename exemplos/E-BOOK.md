@@ -18,3 +18,9 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+
+Mapa de Tendências: IAs Generativas
+ ![image](https://github.com/user-attachments/assets/9b3a9254-a009-4e3a-814a-1e186bac2cf2)
+
+
+ 
